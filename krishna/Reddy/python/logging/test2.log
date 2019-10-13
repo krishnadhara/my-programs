@@ -1,0 +1,5 @@
+2019-09-17 09:28:02,077 - <module> - __main__ - test2.py - WARNING - 30 - this is wornng from test2.log
+2019-09-17 09:29:53,304 - <module> - test - test.py - WARNING - 30 - this is wornng from test.py
+2019-09-17 09:29:53,305 - <module> - __main__ - test2.py - WARNING - 30 - this is wornng from test2.log
+2019-09-17 09:33:13,294 - <module> - test - test.py - WARNING - 30 - this is wornng from test.py
+2019-09-17 09:33:13,310 - <module> - __main__ - test2.py - WARNING - 30 - this is wornng from test2.log

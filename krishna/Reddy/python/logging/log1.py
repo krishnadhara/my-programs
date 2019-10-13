@@ -1,0 +1,10 @@
+import logging
+logger=logging.getLogger(__name__)
+file_logger=logging.FileHandler('test111.log')
+logger.addHandler(file_logger)
+logger.debug("This is a debug message!")
+logger.info("This is an info message!")
+logger.warning("This is a warning message!")
+console = logging.StreamHandler()
+console.setLevel(logging.INFO)
+logger.addHandler(console)

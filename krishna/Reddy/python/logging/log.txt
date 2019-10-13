@@ -1,0 +1,5 @@
+2019-09-13 12:29:13,138 - root - log.py - DEBUG - 10 - debug message
+2019-09-13 12:29:13,155 - root - log.py - INFO - 20 - info message
+2019-09-13 12:29:13,156 - root - log.py - ERROR - 40 - error message
+2019-09-13 12:29:13,156 - root - log.py - WARNING - 30 - warning message 
+2019-09-13 12:29:13,156 - root - log.py - CRITICAL - 50 - critical message

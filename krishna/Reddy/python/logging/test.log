@@ -1,0 +1,27 @@
+2019-09-16 11:10:46,877 - test - root - test3.py - DEBUG - 10 - dbug message
+2019-09-16 11:10:46,877 - test - root - test3.py - INFO - 20 - info message
+2019-09-16 11:10:46,877 - test - root - test3.py - WARNING - 30 - warning message
+2019-09-16 11:10:46,877 - test - root - test3.py - ERROR - 40 - error message
+2019-09-16 11:10:46,877 - test - root - test3.py - CRITICAL - 50 - critical message
+2019-09-16 11:11:29,446 - <module> - root - test3.py - DEBUG - 10 - dbug message
+2019-09-16 11:11:29,446 - <module> - root - test3.py - INFO - 20 - info message
+2019-09-16 11:11:29,446 - <module> - root - test3.py - WARNING - 30 - warning message
+2019-09-16 11:11:29,447 - <module> - root - test3.py - ERROR - 40 - error message
+2019-09-16 11:11:29,447 - <module> - root - test3.py - CRITICAL - 50 - critical message
+2019-09-16 11:12:06,079 - test - root - test3.py - DEBUG - 10 - dbug message
+2019-09-16 11:12:06,079 - test - root - test3.py - INFO - 20 - info message
+2019-09-16 11:12:06,079 - test - root - test3.py - WARNING - 30 - warning message
+2019-09-16 11:12:06,080 - test - root - test3.py - ERROR - 40 - error message
+2019-09-16 11:12:06,080 - test - root - test3.py - CRITICAL - 50 - critical message
+2019-09-17 09:27:22,869 - <module> - __main__ - test2.py - WARNING - 30 - this is wornng from test2.log
+2019-09-17 09:33:13,310 - test - root - test3.py - DEBUG - 10 - dbug message
+2019-09-17 09:33:13,310 - test - root - test3.py - INFO - 20 - info message
+2019-09-17 09:33:13,310 - test - root - test3.py - WARNING - 30 - warning message
+2019-09-17 09:33:13,310 - test - root - test3.py - ERROR - 40 - error message
+2019-09-17 09:33:13,310 - test - root - test3.py - CRITICAL - 50 - critical message
+2019-09-17 09:33:13,310 - <module> - __main__ - test2.py - WARNING - 30 - this is wornng from test2.log
+2019-10-12 07:37:28,117 - test - root - test3.py - DEBUG - 10 - dbug message
+2019-10-12 07:37:28,164 - test - root - test3.py - INFO - 20 - info message
+2019-10-12 07:37:28,164 - test - root - test3.py - WARNING - 30 - warning message
+2019-10-12 07:37:28,164 - test - root - test3.py - ERROR - 40 - error message
+2019-10-12 07:37:28,164 - test - root - test3.py - CRITICAL - 50 - critical message
